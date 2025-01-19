@@ -18,3 +18,9 @@ This MIPS assembly program implements a sorting algorithm for an integer array. 
 - The program handles nested function calls and ensures that the return address is properly saved and restored using the stack.
 - The `sll` instruction is used to navigate through the array by shifting the address to point to the next integer in memory.
 - The array size is limited to 5 elements, and memory space is allocated accordingly (20 bytes).
+
+## Photo from testing
+
+![Webp net-resizeimage](https://github.com/user-attachments/assets/71587ce4-67b7-4738-b35b-2585afba8e43)
+
+
